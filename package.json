@@ -1,0 +1,23 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "NodeJS test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterGabrielVE/code_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterGabrielVE/code_challenge/issues"
+  },
+  "homepage": "https://github.com/PeterGabrielVE/code_challenge#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
